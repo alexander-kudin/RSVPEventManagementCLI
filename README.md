@@ -1,2 +1,2 @@
 # RSVP Event Management CLI Application // Vanilla C# following OOP principles
- This is a 3rd-semester group assignment. The application has Console Line Interface and provides users with the ability to add/delete events and customers. Users can register customers for events. User Experience was developed by creating complex input validation. The program is built strictly following concepts of object-oriented programming.
+This is a 3rd-semester group assignment. The application has Console Line Interface and provides users with the ability to add/delete events and customers. Users can register customers for events. User Experience was developed by creating complex input validation. The program is built strictly following concepts of object-oriented programming.
