@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSVPEventManagementCLI", "RSVPEventManagementCLI.csproj", "{FF14C354-1F32-41F2-A2E0-2CFC17081221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF14C354-1F32-41F2-A2E0-2CFC17081221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF14C354-1F32-41F2-A2E0-2CFC17081221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF14C354-1F32-41F2-A2E0-2CFC17081221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF14C354-1F32-41F2-A2E0-2CFC17081221}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49EE4039-71B7-4287-90C4-0880DD155EEB}
+	EndGlobalSection
+EndGlobal
